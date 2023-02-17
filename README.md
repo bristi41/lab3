@@ -1,2 +1,2 @@
 # web.dev.tesk
-https://bristi41.github.io/web.dev.tesk1/
+https://github.com/bristi41/web.dev.tesk
